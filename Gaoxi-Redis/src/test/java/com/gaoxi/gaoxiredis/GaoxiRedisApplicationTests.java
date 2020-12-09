@@ -1,0 +1,13 @@
+package com.gaoxi.gaoxiredis;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GaoxiRedisApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
